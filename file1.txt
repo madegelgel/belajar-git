@@ -1,0 +1,1 @@
+ini adalah isi pertama file1.txt
