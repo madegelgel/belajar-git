@@ -1,1 +1,3 @@
 ini adalah isi pertama file1.txt
+
+menambah kata-kata lagi di file1.txt
