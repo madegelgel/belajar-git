@@ -1,1 +1,3 @@
-ini adalah file2.txt
+baris ini di cabang2 susdah diganti
+
+file2.txt di cabang2 sudah diisi kata-kata
