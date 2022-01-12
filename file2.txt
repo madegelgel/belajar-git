@@ -1,1 +1,3 @@
-di cabang baru isi file2.txt diganti
+di cabang2, isi dari text2.txt diganti semua
+
+dan ada penambahan baris baru
