@@ -1,1 +1,1 @@
-ini adalah isi file2.txt
+di cabang baru isi file2.txt diganti
