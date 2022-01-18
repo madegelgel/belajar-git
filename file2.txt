@@ -1,1 +1,5 @@
 ini adalah isi dari file2.txt dari cabang2
+
+dan kita akan mengganti isi file2.txt pada branch mengganti
+
+kita tambah lagi isinya
