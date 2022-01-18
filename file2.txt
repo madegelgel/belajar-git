@@ -1,1 +1,3 @@
 ini adalah isi dari file2.txt dari cabang2
+
+saya sedang menambah isi file2.txt di cabang2
